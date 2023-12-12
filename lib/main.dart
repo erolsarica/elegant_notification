@@ -85,7 +85,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 },
             ),
             ElevatedButton(
-              child: Text ("Hataa"),
+              child: Text ("Hata"),
               style: ElevatedButton.styleFrom(textStyle: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
                   backgroundColor: Colors.red),
               onPressed: (){
